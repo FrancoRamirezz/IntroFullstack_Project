@@ -1,43 +1,32 @@
-# Project Title
+# CSAF Project Design
 
-Short project description goes here.
-
-## Table of Contents
-
+An introduction to the CSAF design. The frontend will mostly consist of React and as for the backend, it will consist of Firebase and Flask
+## Table of Contents 🤖
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [Support and Contact](#support-and-contact)
 
-## Installation
+## Installation Frontend 🫡
+To ensure installation is done correct, you need to type "npx Create-react-app" in your terminal. If there is an error regarding "NPM" installation, downloading NodeJs on your local computer will solve this issue. Once, you run this command in the terminal you should see files that state Public, Src - which contains the file "App.js" and "App.css"
 
-Instructions on how to install and set up the project.
+## Installation Backend 🫡
+As for the backend aspect of the project, type in the terminal "pip install flask" and you should see it begin to download. If there is an error regarding "PIP",then that means you must download Python on your local computer. Once that is done, then you should be able to import Flask and not get a yellow line depending on your chosen IDE
 
-## Usage
-
-Detailed instructions on how to use the project, including any configuration or setup required. Provide examples, code snippets, or screenshots to illustrate usage if applicable.
-
-## Features
-
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
+## Features  🎮
+- Feature 1: Use React to build a responsive website for the project
+- Feature 2: Use Flask and build an API to connect React to the backend and Firebase
+- Feature 3: Use Firebase infrastructure to help host the ecommerce website and provide all the resources needed for the project
 
 ## Contributing
+To ensure this project develops in a correct manner, it is essential for the Frontend to connect well to the backend
 
-If you want others to contribute to your project, specify how they can do so. Include guidelines for the development environment, coding standards, and the contribution process.
 
-## License
-
-Specify the license under which your project is distributed. Include the license text or provide a link to the license file.
-
-## Acknowledgments
-
-Acknowledge any individuals or projects that have inspired or helped your project.
+## Acknowledgments 🥇
+The entire CSAF team 
 
 ## Support and Contact
 
-Provide information on how users can seek support or get in touch with you for questions, feedback, or bug reports.
+If there are any questions feel free to reach out to the CSAF team
+
